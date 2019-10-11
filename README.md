@@ -14,5 +14,5 @@ https://gitpod.io/#github.com/darrenkwon/gearbot-robotics-/edit/master/README.md
 reminder tpye 
 
 ```
-apachecl start
+apachectl start
 ```
